@@ -17,7 +17,7 @@ Junior Software Developer transitioning from IT support into software engineerin
 ---
 
 ### 🚀 Featured Projects
-- **fintrack-expense-tracker** - Software Engineering project(SaaS web application - TypeScript/JavaScript)
+- **FinTrack – Personal Finance Tracking System** – Fullstack Next.js app with Prisma, PostgreSQL, authentication, protected APIs, and analytics dashboards
 - **StockWatchlist** – Front-end JavaScript project (UI & interactivity)
 - **Render-ready CRUD Server** – Node.js + Express backend API
 - **Car Rental System (C# / .NET 8)** – Console-based OOP application
