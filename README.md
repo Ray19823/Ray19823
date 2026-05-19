@@ -8,16 +8,16 @@ Junior Software Developer transitioning from IT support into software engineerin
 ---
 
 ### 🔧 What I Work With
-- **Languages:** JavaScript, Python, Java, C#, SQL
+- **Languages:** JavaScript/TypeScript, Python, Java, C#, SQL
 - **Backend:** Node.js, Express, REST APIs, CRUD
 - **Architecture:** MVC, validation, clean structure
 - **Databases:** PostgreSQL, SQL Server, MySQL
-- **Tools:** Git, GitHub, Postman  
-  VS Code (primary), Cursor & Windsurf (AI-assisted IDEs), PyCharm, Jupyter Notebook
+- **Tools:** Git, GitHub, Docker, Jenkins CI/CD pipeline, Kubernetes, OWASP testing tools, Postman, VS Code (primary), Cursor & Windsurf (AI-assisted IDEs), PyCharm, Jupyter Notebook
 
 ---
 
 ### 🚀 Featured Projects
+- **fintrack-expense-tracker** - Software Engineering project(SaaS web application - TypeScript/JavaScript)
 - **StockWatchlist** – Front-end JavaScript project (UI & interactivity)
 - **Render-ready CRUD Server** – Node.js + Express backend API
 - **Car Rental System (C# / .NET 8)** – Console-based OOP application
