@@ -39,6 +39,20 @@ Backend & Full-Stack Developer with a strong focus on backend systems, APIs, dat
 
 ---
 
+### 🚀 Currently Building
+
+**FinTrack SaaS**
+
+Currently expanding FinTrack into a production-style SaaS platform featuring:
+
+- Secure authentication
+- Transaction management
+- Budget tracking
+- Analytics dashboards
+- Reports
+- DevSecOps deployment
+- Production-ready architecture
+
 ### 🌐 Portfolio & Contact
 
 - Portfolio: https://ray19823.github.io/ray-hong-portfolio/
