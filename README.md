@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ray Hong
 
-Junior Backend / Fullstack Developer with a strong focus on backend systems, APIs, databases, and secure software engineering workflows.
+Backend & Full-Stack Developer with a strong focus on backend systems, APIs, databases, and secure software engineering workflows.Backend & Full-Stack Developer passionate about building secure, scalable web applications using Next.js, Node.js, PostgreSQL, Prisma ORM, REST APIs, and modern DevSecOps practices.
 
 🎓 Diploma in Full-Stack Development (Ngee Ann Polytechnic)  
 📍 Singapore
@@ -9,23 +9,22 @@ Junior Backend / Fullstack Developer with a strong focus on backend systems, API
 
 ### 🔧 Technical Skills
 
-- Languages: JavaScript/TypeScript, Python, Java, C#, SQL
-- Frontend: Next.js, React, HTML/CSS
-- Backend: Node.js, Express, REST APIs, CRUD
-- Architecture: MVC, validation, clean structure
-- Databases: PostgreSQL, SQL Server, MySQL, Prisma ORM
-- DevSecOps & Cloud: Docker, Jenkins CI/CD, Kubernetes, OWASP testing tools
+- Languages: JavaScript/TypeScript, Python, Java, C#, SQL 
+- Frontend: Next.js, React, HTML/CSS 
+- Backend: Node.js, Express.js, REST APIs, Authentication, CRUD, MVC Architecture  
+- Databases: PostgreSQL, Prisma ORM, MySQL, SQL Server 
+- DevOps & Cloud: Docker, Jenkins CI/CD, SonarQube, Trivy, OWASP Dependency-Check, Kubernetes Fundamentals 
 - Developer Tools: Git, GitHub, Postman, VS Code (primary), Cursor & Windsurf (AI-assisted IDEs), PyCharm, Jupyter Notebook
-
+  
 ---
 
 ### 🚀 Featured Projects
 
 - FinTrack – Personal Finance Tracking System  
-  Fullstack Next.js application with Prisma, PostgreSQL, authentication, protected APIs, and analytics dashboards.
+  Production-ready personal finance platform featuring secure authentication, REST APIs, PostgreSQL persistence, analytics dashboards, budgeting, and modern full-stack architecture built using Next.js and Prisma ORM.
 
 - DevSecOps CI/CD Pipeline  
-  Secure CI/CD workflow integrating Jenkins, OWASP Dependency-Check, SonarQube, Trivy, Docker, and Kubernetes concepts.
+  Built a secure CI/CD pipeline integrating Jenkins, SonarQube, OWASP Dependency-Check, Trivy vulnerability scanning, Docker, and Kubernetes deployment concepts.
 
 - Render-ready CRUD Server  
   Backend API built with Node.js and Express demonstrating REST architecture and deployment readiness.
@@ -48,4 +47,4 @@ Junior Backend / Fullstack Developer with a strong focus on backend systems, API
 
 ---
 
-📌 Interested in backend engineering, secure software development, CI/CD workflows, and production-style application architecture.
+📌 Currently focused on backend engineering, full-stack web development, DevSecOps, cloud-native applications, and building production-ready software that solves real-world business problems.
